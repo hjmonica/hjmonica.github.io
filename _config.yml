@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jinyuqi (Monica) Huang / 黄金雨琪"
+title                    : "Jinyuqi (Monica) Huang / "
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jinyuqi (Monica) Huang"
+description              : &description "Welcome to my homepage! I am currently a PhD student at HKUST. Previously, I graduated with MSc in Economics at CUHK(SZ) and with BA in Economics at RUC."
+url                      : https://hjmonica.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
