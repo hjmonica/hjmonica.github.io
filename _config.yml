@@ -14,7 +14,7 @@ name                     : &name "Jinyuqi (Monica) Huang"
 description              : &description "Welcome to my homepage! I am currently a PhD student at HKUST. Previously, I graduated with MSc in Economics at CUHK(SZ) and with BA in Economics at RUC."
 url                      : https://hjmonica.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "hjmonica.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,21 +22,21 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jinyuqi (Monica) Huang 黄金雨琪"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D student in Economics"
+  location         : "Hong Kong"
+  employer         : "@HKUST"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jhuangde@connect.ust.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : " "
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : " "
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : " "
   researchgate     : # URL
 
   # Repositories and software development
