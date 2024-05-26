@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am currently a PhD student at The Hong Kong University of Science and Technology.
+I am currently a PhD student at The Hong Kong University of Science and Technology. You can contact me via email: jhuangde@connect.ust.hk
 
 Research interests
 -----
