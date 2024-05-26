@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jinyuqi (Monica) Huang / "
+title                    : "Jinyuqi (Monica) Huang"
 title_separator          : "-"
 name                     : &name "Jinyuqi (Monica) Huang"
 description              : &description "Welcome to my homepage! I am currently a PhD student at HKUST. Previously, I graduated with MSc in Economics at CUHK(SZ) and with BA in Economics at RUC."
@@ -24,20 +24,13 @@ author:
   avatar           : "profile.png"
   name             : "Jinyuqi Huang (Monica) 黄金雨琪"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D student in Economics"
-  location         : "Hong Kong"
-  employer         : "@HKUST"
+  bio              : "Ph.D candidate in Economics"
+  location         : "@HKUST"
   uri              : # URL
   email            : "jhuangde@connect.ust.hk" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : " "
-  impactstory      : # URL
-  orcid            : " "
-  semantic         : # URL
-  pubmed           : " "
-  researchgate     : # URL
+  
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
